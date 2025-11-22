@@ -1,209 +1,95 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Front-End+Developer+%F0%9F%92%BB;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=32&duration=2500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+a+Front-End+Developer;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=42&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
-<br/>
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🎨 **Front-End Developer** passionate about creating stunning UIs
+- 🌍 Based in **Egypt**
+- 💼 Specializing in **React** and **TypeScript**
+- 🚀 Love building **responsive** and **interactive** web applications
+- 📚 Currently exploring **modern web technologies**
+- ⚡ Fun fact: **Coffee first, code second!**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
-</div>
 
-<br/>
-
-<div align="center">
-
-### 👨‍💻 Who Am I?
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frameworks** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) |
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2DD4BF&fire=FF6B6B&currStreakLabel=2DD4BF&dates=C9D1D9" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🎯 Current Focus
 
 ```javascript
-class FrontEndDeveloper {
-  constructor() {
-    this.name = "Your Name";
-    this.role = "Front-End Developer";
-    this.location = "Egypt 🇪🇬";
-    this.languages = ["Arabic", "English"];
-  }
-
-  sayHi() {
-    console.log("Thanks for dropping by!");
-    console.log("Let's create something amazing together! ✨");
-  }
-}
-
-const me = new FrontEndDeveloper();
-me.sayHi();
+const currentlyWorkingOn = {
+  learning: ["Next.js", "Advanced React Patterns", "Web Performance"],
+  building: ["Personal Portfolio", "E-Commerce App", "Developer Tools"],
+  reading: ["Clean Code", "Design Patterns", "System Design"],
+  goals2024: [
+    "✅ Master TypeScript",
+    "🚧 Build 5+ Major Projects",
+    "📝 Write Technical Blogs",
+    "🤝 Contribute to Open Source"
+  ]
+};
 ```
 
-</td>
-<td width="50%" align="center">
-
-### 🎯 Quick Facts
-
-🔭 Building **responsive** web applications  
-🌱 Mastering **React & TypeScript**  
-💡 Passionate about **clean code**  
-🎨 Love creating **beautiful UIs**  
-⚡ Fun fact: **Coffee = Code++**  
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## 🎨 Skills & Expertise
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-<br><strong>TypeScript</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<br><strong>React</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
-<br><strong>HTML5</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3" />
-<br><strong>CSS3</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65" alt="Bootstrap" />
-<br><strong>Bootstrap</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<br><strong>GitHub</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
-<br><strong>Git</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true" alt="Contribution Graph" width="95%"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-
-## 🔥 Current Focus
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Projects
-- 🌟 Building modern web applications
-- 🎨 Creating responsive UI components
-- 📱 Mobile-first development
-- ♿ Accessibility-focused design
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Learning
-- ⚡ Advanced React patterns
-- 🔧 Performance optimization
-- 🎭 Animation libraries
-- 🧪 Testing best practices
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
+---
 
 ## 🌐 Let's Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](YOUR_PORTFOLIO_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD)
-
-<br/>
-
-### 📧 Email: your.email@example.com
-### 🌍 Based in Egypt
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-### 📈 Profile Stats
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=FOLLOWERS)
-![](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=STARS)
-
-</div>
-
-<br/>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <a href="https://www.linkedin.com/in/abdulrahman-al-qirshawi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/_d7m____" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://abdulrahman-update.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:qabdulrahman67@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Feel+free+to+reach+out!+%F0%9F%93%A8" alt="Footer" />
-</div>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=D7m000&color=2dd4bf&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>⭐ If you like my projects, feel free to star them! ⭐</i>
+</p>
